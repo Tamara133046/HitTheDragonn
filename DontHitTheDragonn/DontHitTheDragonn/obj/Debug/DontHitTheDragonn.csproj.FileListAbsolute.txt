@@ -1,0 +1,10 @@
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\bin\Debug\DontHitTheDragonn.exe.config
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\obj\Debug\DontHitTheDragonn.Form1.resources
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\obj\Debug\DontHitTheDragonn.Properties.Resources.resources
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\obj\Debug\DontHitTheDragonn.csproj.GenerateResource.Cache
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\bin\Debug\DontHitTheDragonn.exe
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\bin\Debug\DontHitTheDragonn.pdb
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\obj\Debug\DontHitTheDragonn.exe
+c:\users\tami\documents\visual studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\obj\Debug\DontHitTheDragonn.pdb
+C:\Users\Tami\Documents\Visual Studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\obj\Debug\DontHitTheDragonn.csprojResolveAssemblyReference.cache
+C:\Users\Tami\Documents\Visual Studio 2015\Projects\DontHitTheDragonn\DontHitTheDragonn\obj\Debug\DontHitTheDragonn.CustomForm.resources
