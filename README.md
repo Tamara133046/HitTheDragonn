@@ -13,21 +13,30 @@
 
 Screenshot од апликацијата:
 Почетна форма од играта:
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/vtora.jpg)
  
 Доколку сме ја кликнале сликата, се појавува прозорец со освоени поени и играта завршува:
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/treta.jpg)
  
 Доколку измине времето, а не сме ја кликнале сликата, се појавува следниот прозорец:
- 
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/chetvrta.jpg)
+
 Доколку се кликне yes на претходниот прозорец, се појавува играта Меморија:
- 
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/petta.jpg)
+
 Доколку се стисне No се појавува прозорец за Game over и играта се затвора:
- 
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/shesta.jpg)
+
 Доколку измине времето на играта со Меморија, се освојуваат 0 поени и играта завршува:
- 
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/sedma.jpg)
+
 Доколку се помине успешно играта со клик на копчето ОК, се овозмошува уште еднаш да се игра првата игра:
- 
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/osma.jpg)
+
 Кога ја играме по втор пат имаме само 15 секунди:
- 
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/devetta.jpg)
+
 Доколку ја завршиме успешно играта добиваме 15 поени, дупло помалку од првиот пат:
- 
+![alt tag](https://github.com/Tamara133046/HitTheDragonn/blob/master/desetta.jpg)
+
 Доколку изгубиме и овој пат повторно ни се појавува прозорец за Game over и играта завршува.
